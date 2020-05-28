@@ -1,0 +1,2 @@
+# teszt
+git hub tanulas
